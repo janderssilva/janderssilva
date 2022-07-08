@@ -17,6 +17,73 @@
 |Maverick-1 (nickname for R2D4) kernel upgrade with PyScript (_the BB series was discontinued for "conduct deviation"_)|Under analysis|not defined|
 |~~A way to stop NWO and make the world free~~|~~_No viability_~~|~~_not defined_~~|
 
+```mermaid
+journey
+    title My Journey
+    section BEGINNINGS
+      1985-1990: 5: Dev
+      1990-1995: 5: Dev, Teacher
+    section MIDDLE AGES
+      1995-2005: 5: Dev, Husband, Dad
+      2005-2010: 3: Dev, IT Coordinator, Husband, Dad
+      2010-2016: 3: Dev, IT Manager, Husband, Dad
+    section CURRENT DAYS
+      2017-2021: 3: Dev, Consultant, Husband, Dad
+      2022-Now: 5: Dev, Husband, Dad
+```
+
+### I'm here!
+> Finally, let me know when you're near this region. Maybe we can share our stories (and codes) in person... and without masks!
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-41.80591,-22.40200]
+      }
+    }
+  ]
+}
+```
+
+<!---
+        "coordinates": [-41.80591,-22.40200]
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+--->
 
 <!---
 janderssilva/janderssilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
