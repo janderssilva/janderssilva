@@ -14,7 +14,7 @@
 |-|-|-|
 |Spacetime tunnel to resistance base|Approved|Christmas 2150|
 |Millennium Falcon III shield upgrade|Approved|Easter 2243|
-|Maverick-1 (nickname for R2D4) kernel upgrade with PyScript (_the BB series was discontinued for "conduct deviation"_)|Under analysis|not defined|
+|Maverick-1 (nickname for R2D4) kernel upgrade with PyScript (_the BB series was discontinued due to suspicious conduct and bad influence on humans_)|Under analysis|not defined|
 |~~A way to stop NWO and make the world free~~|~~_No viability_~~|~~_not defined_~~|
 
 ```mermaid
