@@ -9,7 +9,9 @@
 ![badge](https://img.shields.io/static/v1?label=devops&message=scrum%20|%20azure%20|%20...excel?!😐&color=blue&style=flat&logo=AZUREDEVOPS)
 ![badge](https://img.shields.io/static/v1?label=dev&message=loading%20since%201985...&color=blue&style=flat&logo=VISUALSTUDIOCODE)
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+<div display="inline">
+   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+</div>
           
 ### Projects Roadmap (just hobby)
 |Project Description|Status|Planned Date|
