@@ -10,7 +10,9 @@
 ![badge](https://img.shields.io/static/v1?label=dev&message=loading%20since%201985...&color=blue&style=flat&logo=VISUALSTUDIOCODE)
 
 <div style="display: inline">
-   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+   <a href="https://azure.microsoft.com/pt-br/products/devops">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+   </a>
    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 </div>
           
