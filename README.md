@@ -48,7 +48,7 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
 -->
 
 ##
-### You can find me here...
+### You can find me on...
 
 <div style="display: inline">
    <a href="https://www.linkedin.com/in/jander-silva-53a18017/">
