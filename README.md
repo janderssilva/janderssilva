@@ -11,6 +11,10 @@
 ![badge](https://img.shields.io/static/v1?label=dev&message=loading%20since%201985...&color=blue&style=flat&logo=VISUALSTUDIOCODE)
 
 <!--
+![badge](https://img.shields.io/badge/topic_1-detail_with_blanks-blue)
+-->
+
+<!--
 ![badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 
 <div style="display: inline">
