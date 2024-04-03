@@ -1,5 +1,5 @@
-### Hi, I'm Jander.
-> Systems analyst currently working as a freelance developer and IT consultant... and studying Golang.
+### Hi there, I'm Jander.
+> Systems analyst currently focused on development and IT consultant... and studying Golang.
 
 ##
 ### Some skills
